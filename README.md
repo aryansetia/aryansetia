@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/aryansetia/"><img src="https://img.shields.io/badge/-Aryan%20Setia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aryansetiaa@gmail.com"><img src="https://img.shields.io/badge/-aryansetiaa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aryansetiaa/?hl=en"><img src="https://img.shields.io/badge/-@aryansetiaa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="hhttps://www.facebook.com/aryan.setia.756/"><img src="https://img.shields.io/badge/-Aryan Setia-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/aryan.setia.756/"><img src="https://img.shields.io/badge/-Aryan Setia-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/AryanSetia8"><img src="https://img.shields.io/badge/-Aryan Setia-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
