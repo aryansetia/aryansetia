@@ -6,13 +6,13 @@
 
 <br>
 
+<p align="center">
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan690&theme=dark&show_icons=true)
+</p>
 
 </br>
 
-<p align="center">
-  <img src="http://some_place.com/image.png" />
-</p>
+
 
 ### &nbsp;Connect with Me
 
