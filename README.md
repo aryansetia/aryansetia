@@ -6,7 +6,7 @@
 
 <br>
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan690)
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan690&theme=dark&show_icons=true)
   
 </br>
 
