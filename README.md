@@ -6,7 +6,9 @@
 
 <br>
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan690&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan690&layout=compact&theme=dark&show_icons=true)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan690&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan690&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br>
 
