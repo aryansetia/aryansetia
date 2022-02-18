@@ -6,7 +6,7 @@
 
 <br>
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan690&theme=dark&show_icons=true) 
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan690&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan690&layout=compact&theme=dark&show_icons=true)
 
 <br>
 
