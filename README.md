@@ -6,13 +6,9 @@
 
 <br>
 
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan690&theme=dark&show_icons=true) 
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan690&theme=dark&show_icons=true) ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan690&theme=dark)
-
-
-
-
-
+<br>
 
 ### &nbsp;Connect with Me
 
