@@ -5,9 +5,9 @@
 * Ready to experiment and learn from failures.
 
 <br>
-<p align="center">
+<link align="center">
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan690&theme=dark&show_icons=true) 
-</p>
+</link>
 <br>
 
 ### &nbsp;Connect with Me
