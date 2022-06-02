@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aryan! </h1>
 
 * I'm a Data Science enthusiast pursuing my Bachelor's degree in CSE at B. S. Anangpuria Institute of Technology & Management, Haryana.
-* I'm extremely interested in leveraging concepts of Data Science and Machine Learning in making progress in the field of Finance.
+* I'm currently working as Python/Django Developer.
 * Ready to experiment and learn from failures.
 
 <br>
