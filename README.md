@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aryan! </h1>
 
-* I'm a Data Science enthusiast pursuing my Bachelor's degree in CSE at B. S. Anangpuria Institute of Technology & Management, Haryana.
-* I'm currently working as Python/Django Developer.
+* I'm a Data Science enthusiast graduated in B.Tech (CSE) from B. S. Anangpuria Institute of Technology & Management, Haryana.
+* I'm currently working as Backend Developer (Tech Stack: Python, Django, FastAPI, MongoDB, SQL)
 * Ready to experiment and learn from failures.
 
 <br>
